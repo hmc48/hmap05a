@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_05_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウスさつき【地域密着型特定施設入居者生活介護（軽費老人ホーム）】秋田県湯沢市愛宕町三丁目7番46号", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=590700118-00&ServiceCd=362&Type=search", "url2": "http://sumire7100.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.4894445, 39.1499306 ] } },
+{ "type": "Feature", "properties": { "内容": "特定ケアハウス　さわやか寮【地域密着型特定施設入居者生活介護（軽費老人ホーム）】秋田県北秋田市上杉字金沢162-1", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=591100169-00&ServiceCd=362&Type=search", "url2": "http://aki-minsei.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.3513911, 40.1856898 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスわかば【地域密着型特定施設入居者生活介護（軽費老人ホーム）】秋田県鹿角郡小坂町小坂字上谷地26番地", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=592000038-00&ServiceCd=362&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.7353363, 40.3307614 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　みたね【地域密着型特定施設入居者生活介護（軽費老人ホーム）】秋田県山本郡三種町森岳字木戸沢１００－４７", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=592200059-00&ServiceCd=362&Type=search", "url2": "http://www.moritake-onsen.com/" }, "geometry": { "type": "Point", "coordinates": [ 140.088824, 40.0837976 ] } }
+]
+}

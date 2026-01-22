@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_05_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス　スマートライフ中通【特定施設入居者生活介護（軽費老人ホーム）】秋田県秋田市中通1丁目4番4401号", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570121798-00&ServiceCd=332&Type=search", "url2": "http://www.chuoukai.com" }, "geometry": { "type": "Point", "coordinates": [ 140.121348005695012, 39.716652677371798 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　ビハーラ横手【特定施設入居者生活介護（軽費老人ホーム）】秋田県横手市上境字谷地中139", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570308197-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.5281348, 39.342377 ] } },
+{ "type": "Feature", "properties": { "内容": "秋田県南部老人福祉総合エリア軽費老人ホーム　特定施設入居者生活介護事業所【特定施設入居者生活介護（軽費老人ホーム）】秋田県横手市大森町字菅生田245-34秋田県南部老人福祉総合エリア軽費老人ホーム", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570323683-00&ServiceCd=332&Type=search", "url2": "http://www.silverarea.jp/nanbu" }, "geometry": { "type": "Point", "coordinates": [ 140.414398077839991, 39.349642042484298 ] } },
+{ "type": "Feature", "properties": { "内容": "軽費老人ホームケアハウス樹海の里【特定施設入居者生活介護（軽費老人ホーム）】秋田県大館市字下綱123番地", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570414532-00&ServiceCd=332&Type=search", "url2": "http://suikohen.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.587235, 40.2904062 ] } },
+{ "type": "Feature", "properties": { "内容": "大館市ケアハウスほうおう【特定施設入居者生活介護（軽費老人ホーム）】秋田県大館市十二所字大水口4番地4大館市ケアハウスほうおう", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570420810-00&ServiceCd=332&Type=search", "url2": "http://www.odate-sfj.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.657814191437012, 40.215868889309597 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人楽山会　ケアハウス温泉保養館おおゆ【特定施設入居者生活介護（軽費老人ホーム）】秋田県鹿角市十和田大湯字川原の湯9番地3", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570909598-00&ServiceCd=332&Type=search", "url2": "http://www.ink.or.jp/~hoyokan/" }, "geometry": { "type": "Point", "coordinates": [ 140.8229106, 40.292739 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　ふるさと学び舎【特定施設入居者生活介護（軽費老人ホーム）】秋田県由利本荘市土谷字新谷地157番地", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=570515353-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.0694002, 39.3918877 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス仙南の杜【特定施設入居者生活介護（軽費老人ホーム）】秋田県仙北郡美郷町金沢西根字上糠渕3-2", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=572621118-00&ServiceCd=332&Type=search", "url2": "http://rotopia.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.52840230000001, 39.3865933 ] } }
+]
+}

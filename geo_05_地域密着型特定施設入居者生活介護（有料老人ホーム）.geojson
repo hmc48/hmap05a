@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_05_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "有料老人ホーム北の郷【地域密着型特定施設入居者生活介護（有料老人ホーム）】秋田県鹿角市十和田大湯字前田29有料老人ホーム北の郷", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=590900213-00&ServiceCd=361&Type=search", "url2": "https://jyukoukai.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.794130419048997, 40.272678135952702 ] } },
+{ "type": "Feature", "properties": { "内容": "すみれ荘【地域密着型特定施設入居者生活介護（有料老人ホーム）】秋田県仙北郡美郷町本堂城回字若林１２２番地２", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=592600027-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.588900599999988, 39.4725431 ] } },
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設入居者生活介護　ひらきの郷【地域密着型特定施設入居者生活介護（有料老人ホーム）】秋田県仙北郡美郷町境田字下八百刈265", "url": "https://www.kaigokensaku.mhlw.go.jp/05/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=592600100-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.517939, 39.4021716 ] } }
+]
+}
